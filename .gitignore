@@ -1,7 +1,0 @@
-data/raw/
-data/processed/
-.Rhistory
-.RData
-.Renviron
-*.rds
-.Rproj.user/
