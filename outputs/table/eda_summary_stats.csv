@@ -1,0 +1,7 @@
+variable,mean,median,sd,min,max
+median_rent,1068.23,1005,210.85,730,1559
+dist_to_iu_mi,3.53,2.67,2.72,0.38,9.74
+median_income,62139.58,64467,26857.34,14107,119762
+pct_renters,0.46,0.41,0.3,0.08,1
+pct_bachelors,0.15,0.15,0.05,0,0.24
+housing_age,39.74,37,12.75,20,70

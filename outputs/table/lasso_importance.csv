@@ -1,0 +1,9 @@
+feature,mean_abs_shap
+income_to_rent,0.27548419250450185
+median_income,0.11061827445616092
+log_income,0.09817402501732682
+campus_zone_far_suburbs,0.0787720617055257
+campus_zone_mid_distance,0.05910413648436925
+total_pop,0.0227346498250715
+housing_age,0.014654456319013827
+pct_bachelors,0.012112698933250756
